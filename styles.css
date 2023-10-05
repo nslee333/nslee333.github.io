@@ -1,7 +1,7 @@
 * {
   background-color: #2b2d2f;
   color: white;
-  font-family: 'aria';
+  font-family: monospace, 'Courier New';
 }
 
 
@@ -9,13 +9,14 @@
 a {
   text-decoration: none;
   color: white;
+  margin: .5rem;
+  font-size: 1.35rem;
 }
 
 
 pre {
   text-align: center;
   font-size: 16px;
-  font-family: 'Courier New', monospace;
 }
 
 div {
