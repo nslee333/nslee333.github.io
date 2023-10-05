@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
+
+
