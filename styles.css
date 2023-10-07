@@ -11,21 +11,34 @@ a {
   color: white;
   margin: .5rem;
   font-size: 1.35rem;
+  /* border: 2px solid hotpink; */
+  width: 70%;
 }
 
 pre {
   margin: 2rem;
+
   
+  
+  @media (max-width: 350px) {
+    margin: .5rem;
+  }
 }
 
-
+p {
+  width: 100%;
+  /* border: 2px solid hotpink; */
+}
 
 .main-body {
 }
 
 .main-center {
-  margin-left: 2rem;
+  margin: 2rem;
 
+  @media (max-width: 350px) {
+    margin: .5rem;
+  }
 }
 
 .bullets {
