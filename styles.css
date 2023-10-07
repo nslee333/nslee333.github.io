@@ -9,7 +9,9 @@ a {
   color: white;
   margin: .5rem;
   font-size: 1.35rem;
-  width: 70%;
+  max-width: 20%;
+  min-width: 13rem;
+  border: 2px solid hotpink;
 }
 
 pre {
