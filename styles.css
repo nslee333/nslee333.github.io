@@ -13,16 +13,27 @@ a {
   font-size: 1.35rem;
 }
 
-
 pre {
-  text-align: center;
-  font-size: 16px;
-}
-
-div {
-  display: flex;
-  flex-direction: column;
   margin: 2rem;
+  
 }
 
 
+
+.main-body {
+}
+
+.main-center {
+  margin-left: 2rem;
+
+  width: 40%;
+
+  @media (max-width: 425px) {
+    width: none;
+  }
+}
+
+.bullets {
+  display: flex; 
+  flex-direction: column;
+}
