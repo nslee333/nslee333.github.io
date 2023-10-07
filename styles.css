@@ -11,13 +11,10 @@ a {
   font-size: 1.35rem;
   max-width: 20%;
   min-width: 13rem;
-  border: 2px solid hotpink;
 }
 
 pre {
   margin: 2rem;
-
-  
   
   @media (max-width: 350px) {
     margin: .5rem;
