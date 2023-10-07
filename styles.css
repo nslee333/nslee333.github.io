@@ -26,11 +26,6 @@ pre {
 .main-center {
   margin-left: 2rem;
 
-  width: 40%;
-
-  @media (max-width: 425px) {
-    width: none;
-  }
 }
 
 .bullets {
