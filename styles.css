@@ -11,18 +11,30 @@ a {
   font-size: 1.35rem;
   max-width: 20%;
   min-width: 13rem;
+  font-weight: normal;
+}
+
+a:hover {
+  color: #4AF626;
+}
+
+.bendjs:hover {
+  color: 	#f7df1e;
 }
 
 pre {
   margin: 2rem;
+  margin-bottom: 3.5rem;
   
   @media (max-width: 350px) {
     margin: .5rem;
+    margin-bottom: .5rem;
   }
 }
 
 p {
   width: 30rem;
+  font-size: 17px;
   @media (max-width: 569px) {
     width: 15rem;
   }
@@ -42,4 +54,13 @@ p {
 .bullets {
   display: flex; 
   flex-direction: column;
+}
+
+.projects-sub {
+  font-weight: bold;
+}
+
+footer {
+  font-style: italic;
+  margin-top: 7rem;
 }
