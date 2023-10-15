@@ -43,9 +43,9 @@ h1  {
 h3 {
   color: #f1cf54;
   
-  #242C89, #FE4B87, #FFCC5A,
+  /* #242C89, #FE4B87, #FFCC5A, */
   
-  #00a4c1, #e00100 #fec500 #f497b6 #5375a0 #FE4B87 #f2ece7
+  /* #00a4c1, #e00100 #fec500 #f497b6 #5375a0 #FE4B87 #f2ece7 */
 }
 
 p {
@@ -58,7 +58,6 @@ p {
 }
 
 .text {
-  /* color: #5ff842; */
 }
 
 
@@ -69,14 +68,11 @@ a {
   max-width: 20%;
   min-width: 13rem;
   font-weight: normal;
-  /* color: #DC6E19; */
-  /* color: #fd6821; */
   color: white;
   
 }
 
 a:hover {
-  /* color: #f497b6; */
 }
 
 .bullets {
@@ -87,6 +83,4 @@ a:hover {
 footer {
   font-style: italic;
   margin-top: 7.8rem;
-  /* color: #D85116;*/
-  /* color: #FE4B87;  */
 }
