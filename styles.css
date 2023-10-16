@@ -2,7 +2,6 @@ body {
   background-color: #2b2d2f;
   font-family: monospace, 'Courier New';
   color: white;
-  
 }
 
 
@@ -37,12 +36,10 @@ body {
 }
 
 pre {
-  /* margin: 2rem; */
   margin-bottom: 2.5rem;
   color: #f1cf54;
   
   @media (max-width: 350px) {
-    /* margin: .5rem; */
     margin-bottom: .5rem;
   }
 }
