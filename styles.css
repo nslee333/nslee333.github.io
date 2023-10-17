@@ -71,6 +71,16 @@ p {
   }
 }
 
+.inline-link {
+  font-size: 16px;
+
+}
+
+.inline-link:hover {
+  color: #9ba1a8;
+
+}
+
 a {
   text-decoration: none;
   margin: .5rem;
@@ -85,6 +95,7 @@ a {
 a:hover {
   color: #9ba1a8;
 }
+
 
 .non-link:hover {
   color: white;
