@@ -1,1 +1,1 @@
-Personal static site that uses Github Pages. Used HTML, CSS, JS. 
+Personal static site that uses Github Pages. Written using good ol' HTML/CSS/JS. 
