@@ -98,8 +98,10 @@ a:hover {
 }
 
 
-.non-link:hover {
-  color: white;
+.non-link {
+  font-weight: normal;
+  font-size: 1.35rem;
+  margin: .5rem;
 }
 
 .bullets {
