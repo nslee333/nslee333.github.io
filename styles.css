@@ -99,6 +99,7 @@ a:hover {
 
 
 .non-link {
+  color: white;
   font-weight: normal;
   font-size: 1.35rem;
   margin: .5rem;
