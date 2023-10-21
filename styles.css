@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url(static/OpenSans-Regular.ttf);
+}
+
 body {
   background-color: #000;
   font-family: 'Open Sans', sans-serif;
@@ -93,7 +98,6 @@ a {
 a:hover {
   color: #9ba1a8;
 }
-
 
 .non-link {
   color: white;
